@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AFAI/static/css/main.11eccb8a.css",
-    "main.js": "/AFAI/static/js/main.f7951432.js",
+    "main.css": "/AFAI/static/css/main.8d16f05e.css",
+    "main.js": "/AFAI/static/js/main.eb686a58.js",
     "index.html": "/AFAI/index.html",
-    "main.11eccb8a.css.map": "/AFAI/static/css/main.11eccb8a.css.map",
-    "main.f7951432.js.map": "/AFAI/static/js/main.f7951432.js.map"
+    "main.8d16f05e.css.map": "/AFAI/static/css/main.8d16f05e.css.map",
+    "main.eb686a58.js.map": "/AFAI/static/js/main.eb686a58.js.map"
   },
   "entrypoints": [
-    "static/css/main.11eccb8a.css",
-    "static/js/main.f7951432.js"
+    "static/css/main.8d16f05e.css",
+    "static/js/main.eb686a58.js"
   ]
 }
