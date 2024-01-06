@@ -1,0 +1,47 @@
+
+.card {
+  margin: 2vw;
+  opacity: 1.0;
+  color: rgb(250, 212, 19);
+  transition: all 500ms;
+  font-size: x-large;
+  text-align: right;
+}
+
+.card p {
+  font-size: medium;
+}
+
+.card:hover {
+  transform: scale(1.2);
+}
+
+#blue {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+#red {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+#green {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,14,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+#yellow {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(115,121,9,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+#pink {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,118,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+#cyan {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,118,1) 100%, rgba(0,212,255,1) 100%);
+}

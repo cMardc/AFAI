@@ -1,0 +1,11 @@
+
+.center {
+  margin-top: 5%;
+  text-align: center;
+  color: white;
+}
+
+.important {
+  font-size: large;
+  align-self: center;
+}
