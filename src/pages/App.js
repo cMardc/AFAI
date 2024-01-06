@@ -23,14 +23,14 @@ function App() {
       
       <div className={window.screen.height < window.screen.width ? 'col' : 'row' } id="first">
         <div className={window.screen.height < window.screen.width ? 'row' : 'col' } id="second">
-          <Card styleCMD="blue" uc="30" azn="1"/>
-          <Card styleCMD="red" uc="60" azn="2"/>
-          <Card styleCMD="yellow" uc="90" azn="3"/>
+          <Card styleCMD="black" uc="30" azn="1" image="https://st.downzen.com/dzni/images/300x150/screenshot/pubg-mobile-lite-android-faca93.jpg"/>
+          <Card styleCMD="white" uc="60" azn="2" image="https://www.dealnloot.com/wp-content/uploads/2019/10/pubg-tournament-300x150.jpg"/>
+          <Card styleCMD="black" uc="90" azn="3" image="https://www.phoneworld.com.pk/wp-content/uploads/2022/09/PUBG-Free-to-play-2-1-390x220.jpg"/>
         </div>
         <div className={window.screen.height < window.screen.width ? 'row' : 'col' } id="third">
-          <Card styleCMD="green" uc="120" azn="4"/>
-          <Card styleCMD="pink" uc="180" azn="5"/>
-          <Card styleCMD="cyan" uc="325" azn="8"/>
+          <Card styleCMD="black" uc="120" azn="4" image="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/en/9/9f/Pubgbattlegrounds.png&w=640&q=50"/>
+          <Card styleCMD="white" uc="180" azn="5" image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCarABNqHYVPe_Io8Y2prNSyfsiGm1FdSpwe1jwHvnt4jS8nx4V_vGMuNLvAFXVB8RzIo&usqp=CAU"/>
+          <Card styleCMD="black" uc="325" azn="8" image="https://static.toiimg.com/thumb/msid-87642152,width-400,resizemode-4/87642152.jpg"/>
         </div>
       </div>
       
